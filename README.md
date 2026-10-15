@@ -1,3 +1,5 @@
+**Demo video:** Watch the agent run on Loom: https://www.loom.com/share/30976bd8cabc4cffacd70fc31a61877e
+
 # Winning Ad Scout
 
 A product research agent built with the **Claude Agent SDK** and **Playwright**.
